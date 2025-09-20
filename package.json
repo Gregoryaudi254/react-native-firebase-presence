@@ -1,6 +1,6 @@
 {
   "name": "react-native-firebase-presence",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A comprehensive React Native library for Firebase real-time presence management with hooks, providers, and components",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
