@@ -8,7 +8,7 @@ export interface DebugInfo {
   connectedRef: boolean;
   connectionStatus: any;
   setupInProgress: boolean;
-  currentSetupUid?: string;
+  currentSetupUid: string | null;
   listenersCount: number;
   presenceListenersCount: number;
   currentPresenceState: string;
