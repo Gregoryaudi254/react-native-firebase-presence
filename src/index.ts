@@ -10,7 +10,7 @@ export { useMultipleUsersPresence } from './hooks/useMultipleUsersPresence';
 export { usePresenceDebug } from './hooks/usePresenceDebug';
 
 // Types exports
-export {
+export type {
   PresenceState,
   PresenceConfig,
   ConnectionStatus,
